@@ -3,4 +3,4 @@ a=1
 
 #i went back to change1
 #i was changed in dev branch
-#edit in master
+#edit in master and dev
